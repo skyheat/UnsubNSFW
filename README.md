@@ -31,9 +31,9 @@ Username would be the username for the reddit account you want to use.
 > user_agent=UnsubNSFW 0.1  
 
 ### To Run
-1. Open terminal and navigate to the directory which the script lies in
+1. Open terminal/cmd/shell and navigate to the directory which the script lies in.
 2. Run `python unsub.py`
-3. The script will then unsubscribe you from all NSFW subreddits while listing the name of each subreddit it unsubscribes from/
-4. The total amount of subreddits that you have unsubscribed from will be displayed
+3. The script will then unsubscribe you from all NSFW subreddits while listing the name of each subreddit it unsubscribes from.
+4. The total amount of subreddits that you have unsubscribed from will be displayed.
 
 Special thanks to https://www.pythonforengineers.com/build-a-reddit-bot-part-1/ for providing the image and tutorial
